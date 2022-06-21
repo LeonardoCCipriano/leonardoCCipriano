@@ -10,7 +10,7 @@
 
 
 
-<img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+<img src="./img/languages-02.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>About Me</b>
 
