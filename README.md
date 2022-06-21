@@ -1,3 +1,5 @@
+![Leonardo Cipriano](./img/banner-02.png)
+
 ### 👋 Hello World! My name is Leonardo. 
 
 
