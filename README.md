@@ -59,7 +59,7 @@ I try to apply good practices of accessibility and semantics in projects.
     <tr>
       <td>
 
-![Origamid](./img/images.png)
+![Origamid](./img/origamid.svg)
       </td>
       <td>
         <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
