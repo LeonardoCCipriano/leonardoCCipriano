@@ -7,6 +7,7 @@
 <br><br><br>
 
 
+
 <img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>About Me</b>
@@ -56,7 +57,7 @@ I try to apply good practices of accessibility and semantics in projects.
     <tr>
       <td>
 
-![Origamid](./img/origamid.svg)
+![Origamid](./img/images.png)
       </td>
       <td>
         <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
