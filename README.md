@@ -103,6 +103,11 @@ I try to apply good practices of accessibility and semantics in projects.
   <a href="Loading portifolio" target="_blank"><img src="https://img.shields.io/badge/SITE-(linkdosite)-black?style=for-the-badge"></a> &nbsp;
 
 </div>
+    
+    
 <br><br><br>
+
+    https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+
 
 ![Snake animation](https://github.com/LeonardoCCipriano/leonardoCCipriano/blob/output/github-contribution-grid-snake.svg)
