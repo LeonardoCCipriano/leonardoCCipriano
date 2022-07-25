@@ -71,7 +71,7 @@ I try to apply good practices of accessibility and semantics in projects.
     </tr>
     <tr>
       <td>
-![Business_-_The_Noun_Project](./img/Business_-_The_Noun_Project.svg)
+![Projects](./img/Projects.svg)
       </td>
       <td>
         <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
@@ -107,7 +107,7 @@ I try to apply good practices of accessibility and semantics in projects.
     
 <br><br><br>
 
-   <img src="{[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={LeonardoCCipriano})}" />
+   <img src="{[(https://github-readme-stats.vercel.app/api/top-langs/?username={LeonardoCCipriano})]}" />
 
 
 ![Snake animation](https://github.com/LeonardoCCipriano/leonardoCCipriano/blob/output/github-contribution-grid-snake.svg)
