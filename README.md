@@ -66,106 +66,35 @@ I try to apply good practices of accessibility and semantics in projects.
         Curso de Front-end e Web Design.
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
       </td>
     </tr>
     <tr>
       <td>
-![Loading](./img/rocketseat-origim.svg)
+![Projects](https://raw.githubusercontent.com/LeonardoCCipriano/leonardoccipriano/develop/img/hdc.svg)
       </td>
       <td>
-        <b>[Loading](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
-        Plataforma completa de aprendizado contínuo em programação.
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
+        Some of my personal projects.
       </td>
       <td>
-        <b>[Loading](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-![Loading](https://raw.githubusercontent.com/DiogoRealles/diogorealles/develop/img/hdc.svg)
-      </td>
-      <td>
-        <b>[Loading](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
-        Capacitar quem deseja ser desenvolvedor/programador para o mercado de trabalho.
-      </td>
-      <td>
-        <b>[Loading](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-![Projects](./img/projects.svg)
-      </td>
-      <td>
-        <b>[Projects](https://github.com/DiogoRealles/courses/tree/develop/projects)</b><br>
-        Meus projetos pessoais, redesign de layouts.
-      </td>
-      <td>
-        <b>[Projects](https://github.com/DiogoRealles/courses/tree/develop/projects)</b><br>
-      </td>
-    </tr>
-  </tbody>
+        <b>[Projects](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
+      
 </table>
 <br><br><br>
-
-
-## <b>Conhecimento / Linguagens e Ferramentas</b>:
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![HTML](./img/html.svg) &nbsp;
-  ![CSS](./img/css.svg) &nbsp;
-  ![SASS](./img/sass.svg) &nbsp;
-  ![Bootstrap](./img/bootstrap.svg) &nbsp;
-  ![JS](./img/js.svg) &nbsp;
-  ![Jquery](./img/jquery.svg) &nbsp;
-  ![Git](./img/git.svg) &nbsp;
-  ![Github](./img/github.svg) &nbsp;
-  ![MySQL](./img/mysql.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
-  ![VSCode](./img/vscode.svg) &nbsp;
-  ![Figma](./img/figma.svg) &nbsp;
-  ![AdobeXD](./img/xd.svg) &nbsp;
-
-</div>
-<br><br><br>
-
-
-## <b>Estou Estudando:</b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![NodeJS](./img/nodejs.svg) &nbsp;
-  ![ReactJS](./img/reactjs.svg) &nbsp;
-  ![TS](./img/ts.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
-
-</div>
-<br><br><br>
-
-
-## <b>Tenho Interesse: </b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![ReactJS](./img/reactjs.svg) &nbsp;
-  ![VueJS](./img/vuejs.svg) &nbsp;
-  ![Docker](./img/docker.svg) &nbsp;
-
-</div>
-<br><br><br>
-
 
 ## <b>Test Lab</b>
 <p>This is where I do my experiments and sharpen my skills</p>
 
 |           Host          |                             Projects                         |
 |                -              |                              -                               |
-| ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)   | <b>[Replit](https://replit.com/@LeonardoCCipria/)</b>  |
-| ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white) | <b>[Behance](https://www.behance.net/leoccipriano/)</b>  |
+| ![CodinGame](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)   | <b>[Codingame](https://www.codingame.com/profile/7f2bb34c4f6c0cb8e42f49d582a11d5c2150534)</b>  |
+| ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) | <b>[Codecademy](https://www.behance.net/leoccipriano/)</b>  |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) | <b>[HackerRank](https://www.hackerrank.com/leonardoc_cipri1?hr_r=1)</b>
 
 
 
-## <b>Contate-me</b>
+## <b>Talk to me!</b>
 <div>
 
  
