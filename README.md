@@ -16,15 +16,15 @@
 
 Hey there! I’m Leonardo Cipriano, currently living in Brazil.
 
-Currently, I am a graduating Systems Analysis and Development (Estacio de Sá University), 2023.
+Currently, I am a graduating Systems Analysis and Development (Descomplica University), 2025.
 
 A software developer who is also passionate about user interface design.
 
 <b>Technologies</b><br>
-iOS Development with Swift (UIKit and SwiftUI)<br>
-User Interface Design<br>
-Web Design with Elementor and<br>
-Chat Bot with Python.<br>
+iOS Development with Swift, MVVM, UIKit & ViewCode, RxSwift, Clean Architecture, SwiftUI & Combine, CoreData.
+User Interface Design
+Web Design with Elementor and
+Chat Bot with Python.
 
 <b>UI Design</b><br>
 Typography - Color Theory<br>
