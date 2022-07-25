@@ -71,7 +71,7 @@ I try to apply good practices of accessibility and semantics in projects.
     </tr>
     <tr>
       <td>
-![Projects](:open_file_folder:)
+![Projects](./img/Projects svg.svg)
       </td>
       <td>
         <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
