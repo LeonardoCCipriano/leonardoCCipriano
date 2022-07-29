@@ -78,7 +78,7 @@ I try to apply good practices of accessibility and semantics in projects.
         Some of my personal projects.
       </td>
       <td>
-        <b>[Projects](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
       
 </table>
 <br><br><br>
@@ -94,7 +94,8 @@ I try to apply good practices of accessibility and semantics in projects.
 
 
 
-## <b>Talk to me!</b>
+
+  ##  <b>Talk to me!</b>
 <div>
 
  
@@ -107,11 +108,13 @@ I try to apply good practices of accessibility and semantics in projects.
     
 <br><br><br>
 
-  <div align="center">
+    
+ ## <div align="center">
   <a href="https://github.com/LeonardoCCipriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCCipriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCCipriano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     <div style="display: inline_block"><br> </div>
 
+    
 ![Snake animation](https://github.com/LeonardoCCipriano/leonardoCCipriano/blob/output/github-contribution-grid-snake.svg)
