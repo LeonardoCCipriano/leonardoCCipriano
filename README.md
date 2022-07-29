@@ -62,11 +62,11 @@ I try to apply good practices of accessibility and semantics in projects.
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
         Curso de Front-end e Web Design.
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
       </td>
     </tr>
     <tr>
@@ -74,11 +74,11 @@ I try to apply good practices of accessibility and semantics in projects.
 ![Projects](./img/Projects.svg)
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
         Some of my personal projects.
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
       
 </table>
 <br><br><br>
