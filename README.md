@@ -26,14 +26,6 @@ User Interface Design
 Web Design with Elementor and
 Chat Bot with Python.
 
-<b>UI Design</b><br>
-Typography - Color Theory<br>
-Components and Variants.<br>
-Wireframe: Low fidelity and High fidelity.<br>
-Prototyping: Low Fidelity and High Fidelity<br>
-Interactive prototypes<br>
-Tools: (Figma).<br>
-
 I try to apply good practices of accessibility and semantics in projects.
 
 <p><b>
@@ -70,6 +62,19 @@ I try to apply good practices of accessibility and semantics in projects.
     </tr>
     <tr>
       <td>
+        ![BackFront+](./img/backfrontlogo.svg)
+      </td>
+      <td>
+       <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront+)</b><br>
+        Projects developed throughout the learning process.
+      </td>
+      <td>
+        <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
@@ -81,6 +86,7 @@ I try to apply good practices of accessibility and semantics in projects.
       
 </table>
 <br><br><br>
+
 
 ## <b>Test Lab</b>
 <p>This is where I do my experiments and sharpen my skills</p>
