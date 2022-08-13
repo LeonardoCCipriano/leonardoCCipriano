@@ -43,7 +43,6 @@ I try to apply good practices of accessibility and semantics in projects.
 </p></b>
 <br><br><br>
 
-
 ## <b>Courses and Projects
 </b>
 <table>
@@ -59,26 +58,26 @@ I try to apply good practices of accessibility and semantics in projects.
     <tr>
       <td>
 
-![Origamid](./img/origamid.svg)
-      </td>
-      <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
-        Curso de Front-end e Web Design.
-      </td>
-      <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
 ![Projects](./img/Projects.svg)
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+       <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
         Some of my personal projects.
       </td>
       <td>
         <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+![Origamid](./img/origamid.svg)
+      </td>
+      <td>
+        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
+        Courses Front-end and Web Design.
+      </td>
+      <td>
+       <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
       
 </table>
 <br><br><br>
