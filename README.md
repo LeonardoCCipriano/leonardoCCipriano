@@ -5,7 +5,7 @@
 
 
 <b>IOS Developer.</b><br>
-<b>UI Designer Jr.</b>
+<b>UI Designer.</b>
 <br><br><br>
 
 
@@ -20,13 +20,13 @@ Currently, I am a graduating Systems Analysis and Development (Descomplica Unive
 
 A software developer who is also passionate about user interface design.
 
-<b>Technologies</b><br>
-iOS Development with Swift, MVVM, UIKit & ViewCode, RxSwift, Clean Architecture, SwiftUI & Combine, CoreData.
-User Interface Design
-Web Design with Elementor and
+Technologies</b><br>
+<b>iOS Development with Swift, MVVM, UIKit & ViewCode, RxSwift, Clean Architecture, SwiftUI & Combine, CoreData.<br>
+User Interface Design and User Experience.<br>
+Web Design with Elementor and<br>
 Chat Bot with Python.
 
-I try to apply good practices of accessibility and semantics in projects.
+<b>I try to apply good practices of accessibility and semantics in projects.</b>
 
 <p><b>
 
