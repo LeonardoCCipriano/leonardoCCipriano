@@ -66,7 +66,7 @@ Chat Bot with Python.
       </td>
       <td>
        <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront)</b><br>
-        Projects developed throughout the learning process.
+        Start or accelerate your career as a Mobile iOS Developer.
       </td>
       <td>
         <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront)</b><br>
