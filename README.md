@@ -94,7 +94,7 @@ Chat Bot with Python.
 |           Host          |                             Projects                         |
 |                -              |                              -                               |
 | ![CodinGame](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)   | <b>[Codingame](https://www.codingame.com/profile/7f2bb34c4f6c0cb8e42f49d582a11d5c2150534)</b>  |
-| ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) | <b>[Codecademy](https://www.behance.net/leoccipriano/)</b>  |
+| ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) | <b>[Codecademy](https://www.codecademy.com/profiles/leonardoCunhaCipriano5350697988)</b>  |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) | <b>[HackerRank](https://www.hackerrank.com/leonardoc_cipri1?hr_r=1)</b>
 
 
