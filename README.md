@@ -53,11 +53,11 @@ Chat Bot with Python.
 ![Projects](./img/Projects.svg)
       </td>
       <td>
-       <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+       <b>[Projects](https://github.com/leonardoccipriano/courses/tree/main/projects)</b><br>
         Some of my personal projects.
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+        <b>[Projects](https://github.com/leonardoccipriano/courses/tree/main/projects)</b><br>
       </td>
     </tr>
     <tr>
@@ -65,11 +65,11 @@ Chat Bot with Python.
         ![BackFront+](./img/backfrontlogo.svg)
       </td>
       <td>
-       <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront)</b><br>
+       <b>[BackFront+](https://github.com/leonardoccipriano/courses/tree/main/backfront)</b><br>
         Start or accelerate your career as a Mobile iOS Developer.
       </td>
       <td>
-        <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront)</b><br>
+        <b>[BackFront+](https://github.com/leonardoccipriano/courses/tree/main/backfront)</b><br>
       </td>
     </tr>
     <tr>
@@ -78,11 +78,11 @@ Chat Bot with Python.
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
+        <b>[Origamid](https://github.com/leonardoccipriano/courses/tree/main/origamid)</b><br>
         Courses Front-end and Web Design.
       </td>
       <td>
-       <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
+       <b>[Origamid](https://github.com/leonardoccipriano/courses/tree/main/origamid)</b><br>
       
 </table>
 <br><br><br>
@@ -115,14 +115,14 @@ Chat Bot with Python.
 
     
  ## <div align="center">
-  <a href="https://github.com/LeonardoCCipriano">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCCipriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <a href="https://github.com/leonardoccipriano">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=leonardoccipriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
   
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCCipriano&layout=compact&langs_count=7&theme=dark"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoccipriano&layout=compact&langs_count=7&theme=dark"/>
 </div>
     <div style="display: inline_block"><br> </div>
     
     
 
     
-![Snake animation](https://github.com/LeonardoCCipriano/leonardoCCipriano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leonardoccipriano/leonardoccipriano/blob/output/github-contribution-grid-snake.svg)
