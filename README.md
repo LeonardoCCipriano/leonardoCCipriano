@@ -4,7 +4,7 @@
 
 
 
-<b>IOS Developer.</b><br>
+<b>iOS Developer.</b><br>
 <b>UI Designer.</b>
 <br><br><br>
 
