@@ -107,7 +107,8 @@ Chat Bot with Python.
  <a href="mailto: leonardoccipriano@outlook.com"><img src="https://img.shields.io/badge/Email-leonardoccipriano@outlook.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
   <a href="https://www.linkedin.com/in/leonardoccipriano/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-leonardoccipriano-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
   <a href="Loading portifolio" target="_blank"><img src="https://img.shields.io/badge/SITE-(loading)-black?style=for-the-badge"></a> &nbsp;
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="leonardoccipriano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/leonardoccipriano?trk=profile-badge">Leonardo Cunha Cipriano</a></div>
+              
 </div>
     
     
