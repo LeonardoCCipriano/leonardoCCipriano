@@ -16,7 +16,7 @@
 
 Hey there! I’m Leonardo Cipriano, currently living in Brazil.
 
-Currently, I am a graduating Systems Analysis and Development (Descomplica University), 2025.
+Currently, I am a graduating computer Science (Descomplica University), 2026.
 
 A software developer who is also passionate about user interface design.
 
